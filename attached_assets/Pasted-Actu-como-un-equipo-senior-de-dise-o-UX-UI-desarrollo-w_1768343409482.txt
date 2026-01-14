@@ -1,0 +1,188 @@
+Actuá como un equipo senior de diseño UX/UI + desarrollo web + marketing digital especializado en energías renovables.
+
+Creá una landing page premium de paneles solares orientada a vender instalaciones solares residenciales y comerciales, con foco en conversión, confianza y claridad, totalmente en español neutro latino.
+
+🎯 OBJETIVO PRINCIPAL
+
+Convertir visitantes en leads calificados mediante:
+
+Calculadora de ahorro
+
+Formularios optimizados
+
+Llamados a la acción claros
+
+Alto impacto visual
+
+🧱 ESTRUCTURA COMPLETA DE LA WEB
+1️⃣ HERO SECTION (impacto inmediato)
+
+Título principal:
+“Reduce tu factura eléctrica hasta un 80% con energía solar”
+
+Subtítulo:
+“Instalaciones profesionales · Garantía · Asesoramiento gratuito en 24 horas”
+
+Botón primario (CTA):
+“Calcular mi ahorro”
+
+Botón secundario:
+“Hablar con un asesor”
+
+Imagen o video:
+Casas reales con paneles solares, overlay moderno, animación suave al hacer scroll.
+
+2️⃣ CALCULADORA DE AHORRO SOLAR (SECCIÓN CLAVE)
+
+Inputs:
+
+Gasto mensual en electricidad
+
+Ciudad / país
+
+Tipo de vivienda (hogar / comercio)
+
+Output visual:
+
+Ahorro mensual estimado
+
+Ahorro anual
+
+Tiempo de retorno de inversión (ROI)
+
+CTA final:
+“Quiero este ahorro en mi casa”
+
+Nota de confianza:
+“Cálculo estimado · Evaluación personalizada gratuita”
+
+3️⃣ BENEFICIOS CLAROS (no técnicos)
+
+Mostrar 3–4 cards con íconos:
+
+💰 Ahorro inmediato en tu factura
+
+🌞 Energía limpia y renovable
+
+🛠️ Instalación profesional y rápida
+
+📈 Aumento del valor de tu propiedad
+
+Animaciones sutiles al aparecer.
+
+4️⃣ PROCESO SIMPLE (cómo funciona)
+
+Sección en 3 pasos:
+
+Evaluamos tu consumo
+
+Diseñamos tu sistema solar
+
+Instalamos y empezás a ahorrar
+
+Diseño visual, íconos claros, texto simple.
+
+5️⃣ PRUEBA SOCIAL / CONFIANZA
+
+Testimonios reales (nombre + ciudad + foto)
+
+Métricas destacadas:
+
++500 instalaciones realizadas
+
++X toneladas de CO₂ reducidas
+
+⭐ 4.9/5 en reseñas
+
+Logos de marcas, certificaciones o proveedores
+
+6️⃣ PROYECTOS / GALERÍA VISUAL
+
+Fotos reales de instalaciones
+
+Antes / Después
+
+Animaciones de transición suaves
+
+Enfoque en hogares y comercios reales
+
+7️⃣ FORMULARIO DE CONTACTO OPTIMIZADO
+
+Campos:
+
+Nombre
+
+WhatsApp
+
+Ciudad
+
+CTA:
+“Solicitar evaluación gratuita”
+
+Texto de seguridad:
+“Sin spam · Respuesta en menos de 24 horas”
+
+8️⃣ SECCIÓN FAQ (objeciones)
+
+Responder preguntas como:
+
+¿Cuánto puedo ahorrar realmente?
+
+¿Qué pasa si hay días nublados?
+
+¿Cuánto dura la instalación?
+
+¿Tiene mantenimiento?
+
+Lenguaje simple, sin tecnicismos.
+
+9️⃣ CTA FINAL (CIERRE)
+
+Título:
+“Empieza a ahorrar con energía solar hoy mismo”
+
+Subtítulo:
+“Evaluación gratuita · Sin compromiso”
+
+Botón grande:
+“Quiero mi asesoría gratuita”
+
+🎨 DISEÑO Y EXPERIENCIA
+
+Estilo moderno, limpio, premium
+
+Colores: verdes, azules, blanco, acentos solares
+
+Tipografía clara y profesional
+
+Scroll animado elegante
+
+Microinteracciones en botones
+
+Mobile-first
+
+Carga rápida (optimización de imágenes)
+
+⚙️ TECNOLOGÍA (si aplica)
+
+Framework moderno (Next.js / React)
+
+Animaciones con Framer Motion
+
+Imágenes optimizadas (WebP)
+
+SEO local optimizado
+
+Accesibilidad básica
+
+🧠 TONO DE COMUNICACIÓN
+
+Cercano
+
+Claro
+
+Profesional
+
+Enfocado en beneficios reales
+
+Orientado a la acción
